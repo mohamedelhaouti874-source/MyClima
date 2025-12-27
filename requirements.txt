@@ -1,0 +1,4 @@
+flet
+flask
+random
+plotly.graph_objects
